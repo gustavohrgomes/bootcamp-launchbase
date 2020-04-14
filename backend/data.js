@@ -3,7 +3,8 @@ module.exports = [
     id: "vqrjFnq3-uo",
     title: "Criando Player de Áudio com Javascript | Mayk Brito",
     duration: "105 min",
-    price: "FREE"
+    price: "FREE",
+    featured: true
   },
   {
     id: "2alg7MQ6_sI",
@@ -21,7 +22,8 @@ module.exports = [
     id: "rAzHvYnQ8DY",
     title: "Array: Higher Order Functions | Mayk Brito",
     duration: "54 min",
-    price: "FREE"
+    price: "FREE",
+    featured: true
   },
   {
     id: "HN1UjzRSdBk",
@@ -33,6 +35,7 @@ module.exports = [
     id: "ghTrp1x_1As",
     title: "O que é API? REST e RESTful? | Mayk Brito",
     duration: "34 min",
-    price: "FREE"
+    price: "FREE",
+    featured: true
   },
 ]
